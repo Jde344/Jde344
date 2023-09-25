@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jde344
+- 👋 Hi, I’m Joshua Edoff
 - 👀 I’m interested in computer development and server maintenance
 - 🌱 I’m currently studying for my bachelors of science and engineering in electrical engineering
 - 💞️ I’m looking to callaborate on the development of AlertSense
